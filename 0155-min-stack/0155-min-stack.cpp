@@ -15,7 +15,7 @@ public:
             int current_min = min_stack.top();
             if(value < current_min){
                 min_stack.push(value);
-            }else{\
+            }else{
             min_stack.push(current_min);
             };
         }
