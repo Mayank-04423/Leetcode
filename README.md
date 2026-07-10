@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Mayank-04423/Leetcode/tree/master/0066-plus-one) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mayank-04423/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/Mayank-04423/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/Mayank-04423/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mayank-04423/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Mayank-04423/Leetcode/tree/master/0724-find-pivot-index) |
 | [0973-k-closest-points-to-origin](https://github.com/Mayank-04423/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -91,11 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Mayank-04423/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/Mayank-04423/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mayank-04423/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Mayank-04423/Leetcode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Mayank-04423/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Mayank-04423/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mayank-04423/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
