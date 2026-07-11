@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mayank-04423/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mayank-04423/Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Mayank-04423/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Mayank-04423/Leetcode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayank-04423/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mayank-04423/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mayank-04423/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Mayank-04423/Leetcode/tree/master/0155-min-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mayank-04423/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mayank-04423/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mayank-04423/Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Mayank-04423/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Mayank-04423/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayank-04423/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Mayank-04423/Leetcode/tree/master/0283-move-zeroes) |
@@ -127,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mayank-04423/Leetcode/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Mayank-04423/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Mayank-04423/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
