@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Mayank-04423/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayank-04423/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Mayank-04423/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1331-rank-transform-of-an-array](https://github.com/Mayank-04423/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Mayank-04423/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Math
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Mayank-04423/Leetcode/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mayank-04423/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Mayank-04423/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1331-rank-transform-of-an-array](https://github.com/Mayank-04423/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Mayank-04423/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mayank-04423/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Mayank-04423/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1331-rank-transform-of-an-array](https://github.com/Mayank-04423/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mayank-04423/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Matrix
 |  |
