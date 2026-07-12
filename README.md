@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Mayank-04423/Leetcode/tree/master/0125-valid-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mayank-04423/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mayank-04423/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Mayank-04423/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mayank-04423/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Mayank-04423/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mayank-04423/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -143,4 +145,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Mayank-04423/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mayank-04423/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mayank-04423/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
