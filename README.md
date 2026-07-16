@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Mayank-04423/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayank-04423/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Mayank-04423/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Mayank-04423/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1331-rank-transform-of-an-array](https://github.com/Mayank-04423/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Mayank-04423/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Math
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Mayank-04423/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayank-04423/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Mayank-04423/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Mayank-04423/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Monotonic Stack
 |  |
 | ------- |
