@@ -1,38 +1,28 @@
 class MinStack {
-    stack<int>main_stack;
-    stack<int>min_stack;
+    //custom stack to maintain the min value till that point
+    stack<pair<int,int>>custom;
 public:
-    MinStack() {
-        
-    }
+    MinStack() {}
     
     void push(int value) {
-        main_stack.push(value);
-
-        if(min_stack.empty()){
-            min_stack.push(value);
+        if(custom.empty()){
+            custom.push({value,value});
         }else{
-            int current_min = min_stack.top();
-            if(value < current_min){
-                min_stack.push(value);
-            }else{
-            min_stack.push(current_min);
-            };
+            int currMin = min(value,custom.top().second);
+            custom.push({value,currMin});
         }
-
     }
     
     void pop() {
-        main_stack.pop();
-        min_stack.pop();
+        custom.pop();
     }
     
     int top() {
-        return main_stack.top();
+        return custom.top().first;
     }
     
     int getMin() {
-        return min_stack.top();
+        return custom.top().second;
     }
 };
 
