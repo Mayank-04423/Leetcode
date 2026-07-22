@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Mayank-04423/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Mayank-04423/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Mayank-04423/Leetcode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Mayank-04423/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Mayank-04423/Leetcode/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mayank-04423/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Mayank-04423/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Mayank-04423/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Mayank-04423/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mayank-04423/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Mayank-04423/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Mayank-04423/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Mayank-04423/Leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mayank-04423/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Mayank-04423/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Mayank-04423/Leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
