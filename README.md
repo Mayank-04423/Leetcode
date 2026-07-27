@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Mayank-04423/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Mayank-04423/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mayank-04423/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Mayank-04423/Leetcode/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Mayank-04423/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Mayank-04423/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Mayank-04423/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayank-04423/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Mayank-04423/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mayank-04423/Leetcode/tree/master/0349-intersection-of-two-arrays) |
