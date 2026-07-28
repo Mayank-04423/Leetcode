@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Mayank-04423/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Mayank-04423/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Mayank-04423/Leetcode/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/Mayank-04423/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mayank-04423/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Mayank-04423/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mayank-04423/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Mayank-04423/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0450-delete-node-in-a-bst](https://github.com/Mayank-04423/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0704-binary-search](https://github.com/Mayank-04423/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Mayank-04423/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayank-04423/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Tree
 |  |
