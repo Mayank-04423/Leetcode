@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Mayank-04423/Leetcode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Mayank-04423/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mayank-04423/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0931-minimum-falling-path-sum](https://github.com/Mayank-04423/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Mayank-04423/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mayank-04423/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Mayank-04423/Leetcode/tree/master/0994-rotting-oranges) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mayank-04423/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Mayank-04423/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mayank-04423/Leetcode/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/Mayank-04423/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Mayank-04423/Leetcode/tree/master/0994-rotting-oranges) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Mayank-04423/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Two Pointers
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Mayank-04423/Leetcode/tree/master/0337-house-robber-iii) |
 | [0435-non-overlapping-intervals](https://github.com/Mayank-04423/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mayank-04423/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0931-minimum-falling-path-sum](https://github.com/Mayank-04423/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Mayank-04423/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Mayank-04423/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Mayank-04423/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
