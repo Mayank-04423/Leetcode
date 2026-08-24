@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mayank-04423/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Mayank-04423/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Mayank-04423/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Mayank-04423/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mayank-04423/Leetcode/tree/master/0070-climbing-stairs) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mayank-04423/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Mayank-04423/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Mayank-04423/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mayank-04423/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Mayank-04423/Leetcode/tree/master/0394-decode-string) |
