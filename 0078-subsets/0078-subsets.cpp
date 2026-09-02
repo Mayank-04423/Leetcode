@@ -1,22 +1,17 @@
 class Solution {
 public:
-    void solve(int idx,vector<int>& nums ,vector<int>& curr ,vector<vector<int>>& result){
-        if(idx== nums.size()){
-            result.push_back(curr);
-            return;
-        }
-
-        solve(idx+1,nums,curr,result);
-
-        curr.push_back(nums[idx]);
-        solve(idx+1, nums,curr,result);
-        curr.pop_back();
-    }
-
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>>result;
-        vector<int>curr;
-        solve(0,nums,curr,result);
+        vector<vector<int>>result = {{}};
+
+        for(int num:nums){
+            int n = result.size();
+            for(int i=0; i<n ;i++){
+                vector<int>sub = result[i];
+                sub.push_back(num);
+                result.push_back(sub);
+            }
+        }
+        
         return result;
     }
 };
