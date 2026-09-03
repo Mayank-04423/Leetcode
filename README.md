@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mayank-04423/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Mayank-04423/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Mayank-04423/Leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Mayank-04423/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Mayank-04423/Leetcode/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/Mayank-04423/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Mayank-04423/Leetcode/tree/master/0402-remove-k-digits) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mayank-04423/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Mayank-04423/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayank-04423/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Mayank-04423/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Mayank-04423/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Mayank-04423/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mayank-04423/Leetcode/tree/master/0213-house-robber-ii) |
@@ -597,4 +599,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Mayank-04423/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Mayank-04423/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mayank-04423/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Mayank-04423/Leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
