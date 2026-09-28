@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mayank-04423/Leetcode/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/Mayank-04423/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Mayank-04423/Leetcode/tree/master/0402-remove-k-digits) |
+| [0686-repeated-string-match](https://github.com/Mayank-04423/Leetcode/tree/master/0686-repeated-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mayank-04423/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mayank-04423/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayank-04423/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Mayank-04423/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0686-repeated-string-match](https://github.com/Mayank-04423/Leetcode/tree/master/0686-repeated-string-match) |
 ## Hash Function
 |  |
 | ------- |
@@ -681,4 +683,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mayank-04423/Leetcode/tree/master/0014-longest-common-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Mayank-04423/Leetcode/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Mayank-04423/Leetcode/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Mayank-04423/Leetcode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
