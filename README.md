@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mayank-04423/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayank-04423/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mayank-04423/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mayank-04423/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Mayank-04423/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mayank-04423/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayank-04423/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mayank-04423/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Mayank-04423/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Binary Tree
 |  |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mayank-04423/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayank-04423/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mayank-04423/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mayank-04423/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Mayank-04423/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mayank-04423/Leetcode/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayank-04423/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mayank-04423/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Mayank-04423/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Mayank-04423/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Mayank-04423/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mayank-04423/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Mayank-04423/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Monotonic Stack
 |  |
@@ -646,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mayank-04423/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/Mayank-04423/Leetcode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Mayank-04423/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mayank-04423/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
